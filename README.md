@@ -1,1 +1,1 @@
-# terraform
+This repo contains code to create GCP resources such as vpc, network , bastion host , gke cluster etc using terraform and also create kubernetes objects using terraform by passing it as startup script to bastion host .
